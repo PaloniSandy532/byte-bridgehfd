@@ -1,0 +1,28 @@
+{
+  "name": "byte-bridgehfd",
+  "description": "byte bridgehfd",
+  "version": "0.0.2",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "homepage": "https://github.com/PaloniSandy532",
+  "repository": {
+    "url": "https://github.com/PaloniSandy532/byte-bridgehfd"
+  },
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [
+    "tea",
+    "project",
+    "oss",
+    "byte",
+    "bridgehfd"
+  ],
+  "author": "PaloniSandy532",
+  "license": "MIT",
+  "devDependencies": {
+    "tsup": "^8.0.2",
+    "typescript": "^5.3.3"
+  }
+}
